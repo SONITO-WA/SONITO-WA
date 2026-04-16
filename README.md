@@ -1,24 +1,72 @@
+<div align="center">
+
 # Hi 👋, I'm VELVEDER
 
-### Engineering Student in Management & Governance of Information Systems | Networks & Cybersecurity Enthusiast
+**Engineering Student · Management & Governance of Information Systems · Networks & Cybersecurity**
 
-- 🌱 I'm currently learning **Digital transformation and enterprise systems**
+![Open to collaborate](https://img.shields.io/badge/Open%20to%20collaborate-1D9E75?style=flat-square&logoColor=white)
+![Currently learning](https://img.shields.io/badge/Currently%20learning-378ADD?style=flat-square&logoColor=white)
+![Seeking mentorship](https://img.shields.io/badge/Seeking%20mentorship-7F77DD?style=flat-square&logoColor=white)
 
-- 👯 I'm looking to collaborate on **• Digital transformation and enterprise systems
-• Student and academic projects in IT management**
+</div>
 
-- 🤝 I'm looking for help with **• Improving my skills in IT project management
-• Enterprise systems and decision-making tools
-• Real-world information systems projects**
+---
 
-- 💬 Ask me about **Information systems, databases, web development, manage, and support effective digital solutions.**
+### 🌱 Currently learning
+Digital transformation & enterprise systems
 
-- 👨‍💻 All of my projects are available at **[https://oualid-mokrane.fly.dev/](https://oualid-mokrane.fly.dev/)**
+### 🤝 Looking to collaborate on
+- Digital transformation and enterprise systems
+- Student and academic projects in IT management
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/SONITO-WA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="SONITO-WA" height="30" width="40" /></a>
-</p>
+### 🛠️ Looking for help with
+- Improving my skills in IT project management
+- Enterprise systems and decision-making tools
+- Real-world information systems projects
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/anaconda" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/arduino" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jenkins" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=jenkins" alt="jenkins" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kotlin" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kotlin" alt="kotlin" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/laravel" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mariadb" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sass" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sass" alt="sass" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/seaborn" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/selenium" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=selenium" alt="selenium" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vuejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/zapier" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/zapier/FF4A00" alt="zapier" width="40" height="40"/> </a></p>
+### 💬 Ask me about
+Information systems, databases, web development, and digital solutions
+
+### 📁 All my projects
+**[oualid-mokrane.fly.dev](https://oualid-mokrane.fly.dev/)**
+
+---
+
+### 🔧 Languages & Tools
+
+**Languages**
+![JavaScript](https://skillicons.dev/icons?i=js)
+![Python](https://skillicons.dev/icons?i=py)
+![Java](https://skillicons.dev/icons?i=java)
+![PHP](https://skillicons.dev/icons?i=php)
+![C](https://skillicons.dev/icons?i=c)
+![Kotlin](https://skillicons.dev/icons?i=kotlin)
+
+**Frameworks & Libraries**
+![React](https://skillicons.dev/icons?i=react)
+![Vue](https://skillicons.dev/icons?i=vue)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Laravel](https://skillicons.dev/icons?i=laravel)
+![Spring](https://skillicons.dev/icons?i=spring)
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
+
+**Databases & DevOps**
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![Firebase](https://skillicons.dev/icons?i=firebase)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Git](https://skillicons.dev/icons?i=git)
+![Linux](https://skillicons.dev/icons?i=linux)
+![Jenkins](https://skillicons.dev/icons?i=jenkins)
+
+**Design & Other**
+![Figma](https://skillicons.dev/icons?i=figma)
+![Photoshop](https://skillicons.dev/icons?i=photoshop)
+![Selenium](https://skillicons.dev/icons?i=selenium)
+
+---
+
+### 🔗 Connect with me
+
+[![GitHub](https://img.shields.io/badge/GitHub-SONITO--WA-181717?style=flat-square&logo=github)](https://github.com/SONITO-WA)
+[![Portfolio](https://img.shields.io/badge/Portfolio-oualid--mokrane.fly.dev-0F6E56?style=flat-square&logo=firefox)](https://oualid-mokrane.fly.dev/)
